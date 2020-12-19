@@ -1,7 +1,9 @@
 #if !defined(HAMMING_H)
 #define HAMMING_H
-
-namespace hamming {
+#include <string>
+namespace hamming
+{
+	int ham(string str1,string str2);
 
 }  // namespace hamming
 
