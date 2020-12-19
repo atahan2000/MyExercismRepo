@@ -4,7 +4,7 @@
 using namespace std;
 
 namespace hamming {
-	int ham(string str1,string str2)
+	int compute(string str1,string str2)
 	{
 		if (str1.length() != str2.length())
 		{
