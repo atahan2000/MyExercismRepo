@@ -13,7 +13,7 @@ namespace hamming {
 
 		int result;
 
-		for(long i = 0; i < str2.length(); i++)
+		for(long i = 0; i < (long)(str2.length()); i++)
 		{
 			if (str1[i] != str2[i])
 			{

@@ -1,0 +1,4 @@
+/home/atahan/snap/exercism/5/exercism/cpp/hamming/CMakeFiles/edit_cache.dir
+/home/atahan/snap/exercism/5/exercism/cpp/hamming/CMakeFiles/rebuild_cache.dir
+/home/atahan/snap/exercism/5/exercism/cpp/hamming/CMakeFiles/test_hamming.dir
+/home/atahan/snap/exercism/5/exercism/cpp/hamming/CMakeFiles/hamming.dir
